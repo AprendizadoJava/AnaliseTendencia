@@ -19,10 +19,7 @@ public class Geral {
 		//System.out.println(textoAnuncio);
 
 		Jornal jornal = new Jornal(textoAnuncio);
-
-/*		do {
-			Anuncio anuncio = Jornal.getProximoAnuncio();
-		} while (anuncio. != null);
-*/	}
+		jornal.retornaAnunciosImovel("", "");
+	}
 
 }

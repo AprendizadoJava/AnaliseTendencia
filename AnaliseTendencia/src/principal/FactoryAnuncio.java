@@ -1,7 +1,5 @@
 package principal;
 
-import com.ibm.icu.util.CaseInsensitiveString;
-
 public class FactoryAnuncio {
 
 	public static final String TRES_QUARTOS="3 QUARTOS";
