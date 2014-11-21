@@ -18,8 +18,8 @@ public class Geral {
 		String textoAnuncio = pdfAnuncio.getConteudo();
 		//System.out.println(textoAnuncio);
 
-		Jornal jornal = new Jornal(textoAnuncio);
-		jornal.retornaAnunciosImovel("", "");
+		Jornal jornal = new Jornal();
+		
 	}
 
 }

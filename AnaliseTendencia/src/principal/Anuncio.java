@@ -59,11 +59,7 @@ public abstract class Anuncio {
 
 	public String getTextoAnuncio() {
 		return textoAnuncio;
-	}
-	
-	public void destrincharAnuncio() {
-		
-	}
+	}	
 
 	public void setTextoAnuncio(String textoAnuncioAtual) {
 		textoAnuncio = textoAnuncioAtual;		
