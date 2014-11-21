@@ -2,7 +2,7 @@ package principal;
 
 import java.util.ArrayList;
 
-public class bloco {
+public class Bloco {
 
 	//[quadra;bloco;particular/funcional;qtd. quartos; tem cobertura; cobertura coletiva]
 //	ArrayList<String> blocos = [[205;"bl C";"particular";3],
